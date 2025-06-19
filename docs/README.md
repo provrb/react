@@ -1,6 +1,5 @@
 
 # 'REACT' a user-mode rootkit, RAT, and ransomware
-_This article is still a WIP._
 
 _Disclaimer: This project was made for educational and ethical purposes. This article was written
 to inform computer users, Software Engineers, Cybersecurity Analysts, and others about how someone can exploit 
